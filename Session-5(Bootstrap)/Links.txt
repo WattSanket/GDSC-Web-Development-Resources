@@ -1,0 +1,24 @@
+Important Components
+1.Navbar-
+https://getbootstrap.com/docs/5.1/components/navbar/
+2.Columns and Rows(Grid layout)-
+https://getbootstrap.com/docs/5.1/layout/grid/
+3.Containers-
+https://getbootstrap.com/docs/5.1/layout/containers/
+4.Buttons-
+https://getbootstrap.com/docs/5.1/components/buttons/
+5.Carousel-
+https://getbootstrap.com/docs/5.1/components/carousel/
+6.Cards- (Using Bootstrap Example,Using card-group, Using grid layout)
+https://getbootstrap.com/docs/5.1/components/card/
+https://getbootstrap.com/docs/5.1/examples/
+
+
+Helpful concept-
+z-index(Advanced CSS concept)-https://www.w3schools.com/cssref/pr_pos_z-index.asp
+
+Link for bootstrap snippets-https://bootsnipp.com/
+Link for bootstrap documentation-https://getbootstrap.com/docs/5.1/getting-started/introduction/
+Link for fontawesome CDN-https://fontawesome.com/v4.7/get-started/
+Link for fontawesome icons-https://fontawesome.com/v4.7/icons/
+Links to cheatsheet-https://bootstrap-cheatsheet.themeselection.com/
